@@ -1,2 +1,2 @@
 # Election-Analysis
-Analysis of Lok Sabha General Elections from 1989 to 2014
+Analysis of Lok Sabha General Elections from 1989 to 2014.
